@@ -1,0 +1,39 @@
+#outer_box{
+
+    background-color: blue;
+    height: 600px;
+    border: 2px solid black;
+    padding: 40px;
+
+}
+
+#para-1{
+    background-color: dimgray;
+    color: pink;
+    height: 200px ;
+    border: 2px solid black;
+}
+
+
+#para-2{
+
+    background-color: brown;
+    color: honeydew;
+    height: 200px;
+    border: 2px solid black;
+    margin: 100px;
+
+}
+
+#logo{
+
+    float: right;
+    height: 100px;
+}
+
+#season5{
+
+    float: left;
+    height: 100px;
+
+}
